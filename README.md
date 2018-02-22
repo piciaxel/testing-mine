@@ -3,8 +3,8 @@
 ## Temporary workspace!!!
 
 Usefull links:
-- meta coding rules of some natures (light read): https://www.tutorialspoint.com/automata_theory/deterministic_finite_automaton.htm
 - simplistic algorythm representation: https://en.wikipedia.org/wiki/Decision_tree
+- meta coding rules of some nature (light read of entire turorial preferably): https://www.tutorialspoint.com/automata_theory/deterministic_finite_automaton.htm
 
 ```
 Here are some best practice tips for creating a decision tree diagram:
