@@ -25,6 +25,6 @@ every question or criterion has been resolved and an outcome has been reached.
 question or criterion has been resolved and an outcome has been reached.
 *Verify accuracy and check if it is possible to make it smaller.
 ```
-Notes
-1: A algorithmic decision tree can have loops. Make sure all loops can end.
-2: Try representing familiar algorithms as decision trees (helps understanding).
+Notes:
+1. A algorithmic decision tree can have loops. Make sure all loops can end.
+2. Try representing familiar algorithms as decision trees (helps understanding).
